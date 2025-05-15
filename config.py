@@ -1,3 +1,3 @@
 import os
 
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "your_bot_token_here")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8178852587:AAHJZKUTfmE-m78xrlmH9VvD9RUw1VXEU00")
